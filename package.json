@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-json-tree",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Render JSON in a collapsible tree structure",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -35,7 +35,12 @@
     "ember-try": "0.0.4"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "json",
+    "tree",
+    "collapse",
+    "collapsible",
+    "json-tree"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0"
